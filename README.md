@@ -1,2 +1,2 @@
 # testrepo
-This is a line from RStudion.
+This is a line from RStudio.
